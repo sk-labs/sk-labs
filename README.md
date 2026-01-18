@@ -12,7 +12,7 @@
  
  🔭 I'm currently working on **SMJA HMS**
  
- 🌱 I'm currently learning **AI & Advanced Coding**
+ 🌱 I'm currently learning **Intelligent User Interfaces (IUI)**
 
 💬 Ask me about **Healthcare Tech, Automation, Development... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
 
