@@ -35,6 +35,16 @@
 <br/>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-labs&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://githubes-stats-chi-five-52.vercel.app/api?username=sk-labs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+
+<br/>
+<hr/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -45,15 +55,22 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h2 align="center">📫 Connect With Me 📫</h2>
+<br/>
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-labs&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://githubes-stats-chi-five-52.vercel.app/api?username=sk-labs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" src="https://githubes-stats-chi-five-52.vercel.app/api/top-langs/?username=sk-labs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&count_private=true" alt="top langs" />
+  <a href="https://linkedin.com/in/sk-labs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/sk_labs" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/sk_labs" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </div>
 
-<br/><br/>
-
+<br/>
 <hr/>
