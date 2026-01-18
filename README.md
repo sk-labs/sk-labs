@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakir+from+SK+LABS!;Full+Stack+Developer;Automation+Expert;Healthcare+Tech+Specialist;Building+Bots+%26+Web+Apps!" />
 </h1>
 
-<h3 align="center">A passionate full-stack developer specializing in automation & healthcare tech 🚀💻</h3>
+<h3 align="center">A passionate developer and health professional 🏥💻</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I'm currently working on **SMJA Hospital Management System**
+ 🔭 I'm currently working on **SMJA HMS**
  
  🌱 I'm currently learning **AI & Advanced Coding**
 
-💬 Ask me about **Full Stack Development, Bot Automation, Healthcare Tech... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
+💬 Ask me about **Healthcare Tech, Automation, Development... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
 
 ⚡ Fun fact **I build everything from Telegram bots to hospital management systems!**
 
