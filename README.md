@@ -14,7 +14,7 @@
  
  🌱 I'm currently learning **AI & Advanced Coding**
 
-💬 Ask me about **Healthcare, Development... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
+💬 Ask me about **Healthcare, Development, Automation... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
 
 ⚡ Fun fact **I AM ME**
 
@@ -27,19 +27,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,html,css,fastapi,mongodb" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,bootstrap,github,git,vscode" /><br>
-</div>
-
-<br/>
-<hr/>
- 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sk-labs&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-labs&layout=compact&theme=radical&border_radius=10&count_private=true" alt="top langs" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,express,mongodb,mysql,postgres,redis,prisma,selenium" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,vscode,postman,figma,astro,firebase" /><br>
 </div>
 
 <br/>
@@ -52,5 +42,18 @@
   
   <br/><br/><br/>
 </div>
+
+<hr/>
+ 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sk-labs&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sk-labs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-labs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&count_private=true" alt="top langs" />
+</div>
+
+<br/><br/>
 
 <hr/>
