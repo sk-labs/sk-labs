@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working at **SMJA Hospital**
+ 🔭 I'm currently working on **SMJA Hospital Management System**
  
  🌱 I'm currently learning **AI & Advanced Coding**
 
