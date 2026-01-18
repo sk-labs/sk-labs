@@ -24,12 +24,22 @@
  
  <hr/>
  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,html,css,fastapi,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,bootstrap,github,git,vscode" /><br>
+</div>
+
+<br/>
+<hr/>
+ 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sk-labs&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-labs&layout=compact&theme=radical&border_radius=10" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-labs&layout=compact&theme=radical&border_radius=10&count_private=true" alt="top langs" />
 </div>
 
 <br/>
