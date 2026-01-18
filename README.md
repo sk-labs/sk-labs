@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sk-labs.sk-labs" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakir+from+SK+LABS!;Health+Professional;Project+Manager;Passionate+about+AI+%26+Coding!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakir+from+SK+LABS!;Full+Stack+Developer;Automation+Expert;Healthcare+Tech+Specialist;Building+Bots+%26+Web+Apps!" />
 </h1>
 
-<h3 align="center">A passionate developer and health professional 🏥💻</h3>
+<h3 align="center">A passionate full-stack developer specializing in automation & healthcare tech 🚀💻</h3>
 
 <br/>
 
@@ -14,9 +14,9 @@
  
  🌱 I'm currently learning **AI & Advanced Coding**
 
-💬 Ask me about **Healthcare, Development, Automation... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
+💬 Ask me about **Full Stack Development, Bot Automation, Healthcare Tech... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
 
-⚡ Fun fact **I AM ME**
+⚡ Fun fact **I build everything from Telegram bots to hospital management systems!**
 
  </div>
  
