@@ -4,7 +4,7 @@
 
 ## About Me
 
-I AM ME
+A passionate full-stack developer specializing in automation & healthcare tech
 
 ---
 
