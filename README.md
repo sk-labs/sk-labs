@@ -1,21 +1,59 @@
-# Hi there! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sk-labs.sk-labs" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&width=435&lines=Hi+I+am+SK+LABS;Health+Professional+%26+Developer;Project+Manager+at+SMJA+Hospital;Passionate+about+AI+%26+Coding)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakir+from+SK+LABS!;Full+Stack+Developer;Automation+Expert;Healthcare+Tech+Specialist;Building+Bots+%26+Apps!" />
+</h1>
 
-## About Me
+<h3 align="center">A passionate developer and health professional 🏥💻</h3>
 
-A passionate full-stack developer specializing in automation & healthcare tech
+<br/>
 
----
+<div align="center">
+ 
+ 🔭 I'm currently working on **SMJA HMS**
+ 
+ 🌱 I'm currently learning **Intelligent User Interfaces (IUI)**
 
-## 📊 GitHub Stats
+💬 Ask me about **Healthcare Tech, Automation... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sk-labs&show_icons=true&theme=radical)
+⚡ Fun fact **I build everything from Telegram bots to hospital management systems!**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-labs&layout=compact&theme=radical)
+ </div>
+ 
+<br/>
+ 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,express,mongodb,mysql,postgres,redis,prisma,selenium" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,vscode,postman,figma,astro,firebase" /><br>
+</div>
 
----
+<br/>
+<hr/>
 
-## 🐍 Contribution Snake
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sk-labs/sk-labs/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-![Snake animation](https://github.com/sk-labs/sk-labs/blob/output/github-contribution-grid-snake.svg)
+<hr/>
+ 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-labs&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sk-labs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-labs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&count_private=true" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
