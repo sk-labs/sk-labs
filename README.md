@@ -9,9 +9,9 @@
 <br/>
 
 <div align="center">
- 
+
  🔭 I'm currently working on **SMJA HMS**
- 
+
  🌱 I'm currently learning **Intelligent User Interfaces (IUI)**
 
 💬 Ask me about **Healthcare Tech, Automation... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
@@ -19,11 +19,11 @@
 ⚡ Fun fact **I build everything from Telegram bots to hospital management systems!**
 
  </div>
- 
+
 <br/>
- 
+
  <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -44,7 +44,7 @@
 </div>
 
 <hr/>
- 
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
