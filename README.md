@@ -16,7 +16,7 @@
 
 💬 Ask me about **Healthcare Tech, Automation... or anything [here](https://github.com/sk-labs/sk-labs/issues)**
 
-⚡ Fun fact **I build everything from Telegram bots to hospital management systems!**
+⚡ Fun fact **I build everything from Automation bots to Management systems!**
 
  </div>
 
